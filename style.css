@@ -1,0 +1,22 @@
+/* .body{
+    border: 25px;
+    background-color: antiquewhite;
+    align-self: center;
+    justify-content: center;
+    height: 10vh;
+    display: flex;
+}
+
+.email{
+    width: max-content;
+    padding: 20px;
+    border: 25px;
+}
+
+ */
+
+#message {
+    color: red;
+    margin-top: 10px;
+    font-size: 14px;
+}
